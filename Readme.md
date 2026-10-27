@@ -17,8 +17,8 @@
 
 ## 2. แผนผังเนื้อหาการเรียนรู้ประจำสัปดาห์ (Lesson Roadmap)
 
-<p align="center"><img src="Images/Fig_Readme_2026-10-27T09-37-41_academic.svg" alt="Readme" width="800" ></p>
-<p align="center">  2. แผนผังเนื้อหาการเรียนรู้ประจำสัปดาห์ (Lesson Roadmap)</p>
+<p align="center"><img src="Images/Fig_Readme_2026-10-27T09-37-41_academic.svg" alt="Readme" ></p>
+<p align="center">  แผนผังเนื้อหาการเรียนรู้ประจำสัปดาห์ (Lesson Roadmap)</p>
 
 ---
 
